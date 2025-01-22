@@ -17,7 +17,7 @@ total_diff = 0
 for f,s in zip(ordered_first, ordered_second):
     total_diff = total_diff + abs(int(f)-int(s))
 
-#test change
+#test change 2
     
 print(total_diff)
                
